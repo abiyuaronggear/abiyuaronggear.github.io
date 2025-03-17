@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Kesaksian Rohani Paus Benediktus XVI"
+category: spiritual-testament
+---
+
+Ketika, pada saat-saat akhir hidup saya ini, saya melihat kembali dekade-dekade yang telah saya lewati, pertama-tama saya melihat betapa banyak alasan saya harus berterima kasih. Di atas segalanya, saya berterima kasih kepada Tuhan sendiri, pemberi segala berkat yang baik, yang telah memberi saya hidup dan membimbing saya melewati segala macam kebingungan; yang selalu mengangkat saya saat saya mulai terpeleset, yang selalu memberikan saya kembali cahaya wajah-Nya. Menengok ke belakang, saya melihat dan memahami bahwa bahkan jalan yang gelap dan sulit ini adalah untuk keselamatan saya dan bahwa Dia membimbing saya dengan baik di jalan itu.
+
+Saya berterima kasih kepada orang tua saya, yang memberi saya hidup di masa-masa sulit dan menyiapkan rumah yang indah untuk saya dengan cinta mereka, yang menyinari sepanjang hari saya sebagai cahaya terang hingga hari ini. Iman ayah saya yang berpandangan jernih mengajari kami bersaudara untuk percaya dan berdiri teguh sebagai penuntun di tengah semua pengetahuan ilmiah saya; kesalehan tulus dan kebaikan hati ibu saya tetap menjadi warisan yang tidak bisa saya syukuri dengan cukup. Kakak perempuan saya telah melayani saya tanpa pamrih dan penuh perhatian selama puluhan tahun; kakak laki-laki saya selalu membuka jalan bagi saya dengan penilaiannya yang jernih, dengan tekadnya yang kuat, dan dengan keceriaan hatinya; tanpa hal yang selalu baru ini terus berlanjut, saya tidak akan dapat menemukan jalan yang benar.
+
+Saya berterima kasih kepada Tuhan dari lubuk hati saya yang paling dalam untuk banyak teman, pria dan wanita, yang selalu Dia tempatkan di sisi saya; untuk rekan kerja di semua tahap perjalanan saya; untuk para guru dan murid-murid yang telah Dia berikan kepada saya. Saya dengan penuh syukur mempercayakan Anda semua pada kebaikan-Nya. Dan saya ingin berterima kasih kepada Tuhan atas rumah saya yang indah di kaki pegunungan Alpen Bavaria, di mana saya dapat melihat kemegahan Sang Pencipta sendiri yang bersinar dari waktu ke waktu. Saya berterima kasih kepada orang-orang di tanah air saya karena mengizinkan saya mengalami keindahan iman berkali-kali. Saya berdoa agar negara kita tetap menjadi negara yang beriman dan saya meminta Anda, saudara-saudara yang terkasih, jangan biarkan diri Anda dialihkan dari iman. Akhirnya, saya berterima kasih kepada Tuhan atas segala keindahan yang dapat saya alami selama berbagai tahapan perjalanan saya, terutama di Roma dan di Italia, yang telah menjadi rumah kedua saya.
+
+Saya meminta pengampunan dari lubuk hati saya yang paling dalam dari semua orang yang telah saya sakiti dalam beberapa hal.
+
+Apa yang saya katakan sebelumnya tentang rekan sebangsa saya, sekarang saya katakan kepada semua yang dipercayakan untuk pelayanan saya di Gereja: Berdirilah teguh dalam iman! Jangan bingung! Seringkali tampak seolah-olah sains – di satu sisi, ilmu alam; di sisi lain, penelitian sejarah (khususnya eksegesis Kitab Suci) – menawarkan wawasan yang tak terbantahkan yang bertentangan dengan iman Katolik. Saya telah menyaksikan dari masa lalu perubahan-perubahan dalam ilmu alam dan telah melihat bagaimana kepastian yang nyata menentang iman lenyap, membuktikan itu bukan ilmu pengetahuan tetapi interpretasi filosofis yang tampaknya hanya milik ilmu pengetahuan – apalagi, dalam dialog dengan ilmu-ilmu alam iman telah belajar untuk memahami batas-batas ruang lingkup penegasannya dan dengan demikian kekhususannya sendiri. Selama 60 tahun, saya telah mendampingi jalur teologi, terutama studi alkitabiah, dan telah melihat tesis yang tampaknya tak tergoyahkan runtuh dengan generasi yang terus berubah, yang ternyata hanyalah hipotesis: generasi liberal (Harnack, Jülicher, dll.), generasi eksistensialis (Bultmann, dll.), generasi Marxis. Saya telah melihat, dan terus melihat, bagaimana nalar keimanan muncul dan terus muncul kembali dari jalinan hipotesis. Yesus Kristus benar-benar Jalan, Kebenaran, dan Hidup – dan Gereja, dalam segala kekurangannya, adalah benar-benar Tubuh-Nya.
+
+Akhirnya, dengan rendah hati saya mohon: doakanlah saya, agar Tuhan mengizinkan saya masuk ke kediaman kekal, terlepas dari semua dosa dan kekurangan saya. Untuk semua yang dipercayakan kepada saya, doa tulus saya haturkan hari demi hari.
+
+Benedictus PP XVI.
+
+---
+Buletin Kantor Pers Tahta Suci, 31 Desember 2022

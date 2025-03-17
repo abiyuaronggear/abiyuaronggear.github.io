@@ -1,0 +1,15 @@
+entries:
+  - title: info
+    entries:
+      - title: Welcome to my web blog.
+      - title: github page
+        url: https://github.com/abiyuaronggear
+
+  - title: Paus Benediktus XVI
+    entries: 
+      - title: Kesaksian Rohani
+        post_list:
+          category: spiritual-testament
+      - title: Ensiklik
+        post_list: 
+          category: encyclicals
