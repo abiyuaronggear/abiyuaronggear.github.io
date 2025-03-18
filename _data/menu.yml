@@ -13,3 +13,7 @@ entries:
       - title: Ensiklik
         post_list: 
           category: encyclicals
+
+  - title: Doa
+    post_list:
+      category: prayer
