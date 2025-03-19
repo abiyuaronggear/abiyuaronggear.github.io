@@ -17,3 +17,7 @@ entries:
   - title: Doa
     post_list:
       category: prayer
+      limit: 3
+      show_more: true
+      show_more_text: Lihat Semua...
+      show_more_url: archives/prayer-archive.html
