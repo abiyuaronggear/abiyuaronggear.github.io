@@ -103,11 +103,12 @@ et in sæ´cula sæculórum. Amen.
 
 
 #### Oratio Fatimae
-O mi (bone) Iesu,<br>
-líbera nos a peccátis nostris;<br>
-líbera nos ab ígnibus gehénnæ;<br>
-perduc in paradísum omnes ánimas præsértim<br>
-eas quæ plus misericórdia tua indígent!
+O mi Iesu,<br>
+dimitte nobis debita nostra,<br>
+libera nos ab igne inferni,<br>
+conduc in caelum omnes animas,<br>
+praesertim illas quae maxime<br>
+indigent misericordia tua. 
 
 
 #### Salve Regina
