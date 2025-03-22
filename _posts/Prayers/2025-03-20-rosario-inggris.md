@@ -45,24 +45,24 @@ In the name of the Father and of the Son and of the Holy Spirit. Amen.
 
 
 #### The Apostles’ Creed
-I believe in God the Father almighty,<br>
-Creator of heaven and earth.<br>
-And in Jesus Christ, His only Son,<br>
-our Lord, Who was conceived by the Holy Spirit,<br>
+I believe in God,<br>
+the Father almighty,<br>
+Creator of heaven and earth,<br>
+and in Jesus Christ, his only Son, our Lord,<br>
+who was conceived by the Holy Spirit,<br>
 born of the Virgin Mary,<br>
 suffered under Pontius Pilate,<br>
-was crucified, died, and was buried.<br>
-He descended into hell; the third day<br>
-He rose again from the dead;<br>
-He ascended into heaven, and sits at<br>
-the right hand of God the Father<br>
-almighty, from thence He shall come<br>
-to judge the living and the dead.<br>
+was crucified, died and was buried;<br>
+he descended into hell;<br>
+on the third day he rose again from the dead;<br>
+he ascended into heaven,<br>
+and is seated at the right hand of God the Father almighty;<br>
+from there he will come to judge the living and the dead.<br>
 I believe in the Holy Spirit,<br>
-the holy Catholic Church,<br>
+the holy catholic Church,<br>
 the communion of saints,<br>
 the forgiveness of sins,<br>
-the resurrection of the body<br>
+the resurrection of the body,<br>
 and life everlasting.<br>
 Amen.
 
@@ -112,15 +112,14 @@ especially those most in need of Thy mercy.
 ####  Hail Holy Queen
 Hail, Holy Queen, Mother of Mercy,<br>
 our life, our sweetness and our hope.<br>
-To you do we cry,<br>
+To thee do we cry,<br>
 poor banished children of Eve.<br>
-To you do we send up our sighs,<br>
-mourning and weeping in this valley of tears<br>
+To thee do we send up our sighs,<br>
+mourning and weeping in this valley of tears.<br>
 Turn then, most gracious advocate,<br>
-your eyes of mercy toward us,<br>
-and after this exile<br>
-show unto us the blessed fruit of thy womb,<br>
-Jesus.<br>
+thine eyes of mercy toward us,<br>
+and after this our exile<br>
+show unto us the blessed fruit of thy womb, Jesus.<br>
 O clement, O loving,<br>
 O sweet Virgin Mary.
 
@@ -134,7 +133,7 @@ by his life, death and resurrection,<br>
 has purchased for us<br>
 the rewards of eternal life,<br>
 grant, we beseech thee,<br>
-that meditating on these mysteries<br>
+that while meditating on these mysteries<br>
 of the most holy Rosary of the<br>
 Blessed Virgin Mary,<br>
 we may imitate what they contain<br>
