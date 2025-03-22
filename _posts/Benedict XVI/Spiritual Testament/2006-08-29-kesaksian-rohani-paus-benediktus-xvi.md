@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kesaksian Rohani Paus Benediktus XVI"
-category: spiritual-testament
+category: [benedict-xvi, spiritual-testament]
 ---
 
 Ketika, pada saat-saat akhir hidup saya ini, saya melihat kembali dekade-dekade yang telah saya lewati, pertama-tama saya melihat betapa banyak alasan saya harus berterima kasih. Di atas segalanya, saya berterima kasih kepada Tuhan sendiri, pemberi segala berkat yang baik, yang telah memberi saya hidup dan membimbing saya melewati segala macam kebingungan; yang selalu mengangkat saya saat saya mulai terpeleset, yang selalu memberikan saya kembali cahaya wajah-Nya. Menengok ke belakang, saya melihat dan memahami bahwa bahkan jalan yang gelap dan sulit ini adalah untuk keselamatan saya dan bahwa Dia membimbing saya dengan baik di jalan itu.

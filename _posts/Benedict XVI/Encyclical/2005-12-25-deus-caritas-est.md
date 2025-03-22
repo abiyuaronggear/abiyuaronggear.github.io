@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DEUS CARITAS EST"
-category: encyclicals
+categories: [benedict-xvi, encyclicals]
 ---
 
 Kepada para Uskup, imam dan diakon, kepada para pengemban hidup bakti dan kepada semua orang beriman tentang kasih kristiani.

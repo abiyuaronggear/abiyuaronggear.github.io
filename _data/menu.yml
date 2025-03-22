@@ -9,10 +9,10 @@ entries:
     entries: 
       - title: Kesaksian Rohani
         post_list:
-          category: spiritual-testament
+          categories: [benedict-xvi, spiritual-testament]
       - title: Ensiklik
         post_list: 
-          category: encyclicals
+          categories: [benedict-xvi, encyclicals]
 
   - title: Doa
     post_list:
