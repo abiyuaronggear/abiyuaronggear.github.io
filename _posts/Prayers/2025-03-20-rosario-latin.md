@@ -145,4 +145,4 @@ Per Christum Dóminum nostrum.<br>
 Amen.
 
 
-#### [Oratio ad Sanctum Michael]({% post_url 2025-03-19-doa-kepada-santo-mikael %})
+#### [Oratio ad Sanctum Michael]({% post_url /Prayers/2025-03-19-doa-kepada-santo-mikael %})

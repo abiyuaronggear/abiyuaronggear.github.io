@@ -142,4 +142,4 @@ through the same Christ our Lord.<br>
 Amen.
 
 
-#### [St. Michael's Prayer]({% post_url 2025-03-19-doa-kepada-santo-mikael %})
+#### [St. Michael's Prayer]({% post_url /Prayers/2025-03-19-doa-kepada-santo-mikael %})

@@ -147,4 +147,4 @@ Demi Kristus, Tuhan kami.<br>
 Amin.
 
 
-#### [Doa Kepada Santo Mikael]({% post_url 2025-03-19-doa-kepada-santo-mikael %})
+#### [Doa Kepada Santo Mikael]({% post_url /Prayers/2025-03-19-doa-kepada-santo-mikael %})
