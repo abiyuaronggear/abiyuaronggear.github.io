@@ -13,6 +13,9 @@ entries:
       - title: Ensiklik
         post_list: 
           categories: [benedict-xvi, encyclicals]
+      - title: Pidato
+        post_list:
+          categories: [benedict-xvi, speeches]
 
   - title: Doa
     post_list:
