@@ -5,7 +5,7 @@ category: prayer
 ---
 
 #### Doa Pembuka
-**P**: Tuhan Yesus Kristus, kai berkumpul untuk merenungkan jalan salib-Mu dari rumah Pilatus sampai ke puncak Golgota. Kami ingin mencoba mengikuti Dikau, meskipun biasanya sengsara dan kurban ingin kami hindari. Semoga semangat yang mendorong Dikau untuk tugas perutusan-Mu  menjadi semangat hidup kami dan untuk Gereja-Mu yang sedang berziarah menuju Bapa. Kasihanilah kami, ya Tuhan.<br>
+**P**: Tuhan Yesus Kristus, kami berkumpul untuk merenungkan jalan salib-Mu dari rumah Pilatus sampai ke puncak Golgota. Kami ingin mencoba mengikuti Dikau, meskipun biasanya sengsara dan kurban ingin kami hindari. Semoga semangat yang mendorong Dikau untuk tugas perutusan-Mu  menjadi semangat hidup kami dan untuk Gereja-Mu yang sedang berziarah menuju Bapa. Kasihanilah kami, ya Tuhan.<br>
 **U**: Ya Allah, kasihanilah kami orang berdosa.
 
 Marilah kita renungkan,<br>

@@ -272,7 +272,7 @@ menyongsong kemuliaan.
 #### Doa Penutup
 **P**: _Saudara sekalian. Karena penebusan yang tercapai berkat darah Yesus Kristus, kita menjadi anak-anak Allah. Maka penuh kepercayaan dan rasa terima kasih kita tidak segan berdoa:_<br>
 **U**: Bapa kami...<br>
-**P**: Ya Bapa, sudilah memandang anak-anak-Mu yang berkumpul di sini. Sebab demi keselamatan mereka Tuhan kami Yesus Kristus tidak ragu-ragu menyerahkan diri ke tangan kaum penjahat dan menderita siksaan salib. Dialah Penyelamat kami, kini dan sepanjang masa.<br>
+**P**: _Ya Bapa, sudilah memandang anak-anak-Mu yang berkumpul di sini. Sebab demi keselamatan mereka Tuhan kami Yesus Kristus tidak ragu-ragu menyerahkan diri ke tangan kaum penjahat dan menderita siksaan salib. Dialah Penyelamat kami, kini dan sepanjang masa._<br>
 **U**: Amin.<br>
 **P**: _Semoga saudara sekalian dilindungi dan dibimbing oleh berkat Allah yang mahakuasa: + Bapa dan Putera dan Roh Kudus._<br>
 **U**: Amin.<br>
