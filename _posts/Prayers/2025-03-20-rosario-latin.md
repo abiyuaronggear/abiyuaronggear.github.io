@@ -101,6 +101,14 @@ Sicut erat in princípio,<br>
 et nunc et semper<br>
 et in sæ´cula sæculórum. Amen.
 
+_Pada hari Jumat Agung, doa berikut dapat menggantikan Gloria Patri_<br>
+**V.** Christus factus est pro nobis oboediens usque ad mortem.<br>
+**R.** Mortem autem crucis.
+
+_Pada hari Sabtu Suci, doa berikut dapat menggantikan Gloria Patri_<br>
+**V.** Christus factus est pro nobis oboediens usque ad mortem, mortem autem crucis.<br>
+**R.** Propter quod et Deus exaltavit illum: et dedit illi nomen, quod est super omne nomen.
+
 
 #### Oratio Fatimae
 O mi Iesu,<br>

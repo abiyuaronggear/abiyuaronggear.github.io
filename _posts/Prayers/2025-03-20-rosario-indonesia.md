@@ -105,6 +105,14 @@ seperti pada permulaan,<br>
 sekarang, selalu,<br>
 dan sepanjang segala abad. Amin.
 
+_Pada hari Jumat Agung, doa berikut dapat menggantikan Kemuliaan_<br>
+**P**: Kristus merendahkan diri-Nya untuk kita dan taat sampai mati.<br>
+**U**: Bahkan sampai mati disalib.
+
+_Pada hari Sabtu Suci, doa berikut dapat menggantikan Kemuliaan_<br>
+**P**: Kristus merendahkan diri-Nya untuk kita dan taat sampai mati, bahkan sampai mati disalib.<br>
+**U**: Oleh sebab itu Allah memuliakan Dia dan mengaruniakan kepada-Nya nama yang mengatasi segala nama.
+
 
 #### Terpujilah
 Terpujilah nama Yesus, Maria dan Yosef,<br>

@@ -100,6 +100,14 @@ as it was in the beginning<br>
 is now, and ever shall be<br>
 world without end. Amen.
 
+_On Good Friday, the following may be used in place of the Gloria Patri_<br>
+**V.** Christ became obedient for us unto death.<br>
+**R.** Even unto death on the Cross.
+
+_On Holy Saturday, the following may be used in place of the Gloria Patri_<br>
+**V.** Christ became obedient for us unto death, even unto death on the Cross.<br>
+**R.** For which God hath exalted Him and hath given Him a name which is above all names.
+
 
 #### The Fátima Prayer
 O My Jesus,<br>
